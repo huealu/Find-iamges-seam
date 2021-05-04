@@ -1,1 +1,1 @@
-# Find-iamges-seam
+# Find-images-seam
